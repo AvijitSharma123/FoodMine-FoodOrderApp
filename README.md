@@ -12,9 +12,9 @@
 #Cart Page
 ![Screenshot 2024-12-19 154817](https://github.com/user-attachments/assets/6043e155-d4a9-436e-bd36-c032c5de1abe)
 
-Admin Page
 ![Screenshot 2024-12-19 155018](https://github.com/user-attachments/assets/a895df4c-85ee-41b0-bd93-3525f303d1f4)
 
+#Admin Page
 ![Screenshot 2024-12-19 155256](https://github.com/user-attachments/assets/7a50865b-6948-47b8-9f1c-74f5a4c2fb7d)
 
 ![Screenshot 2024-12-19 155338](https://github.com/user-attachments/assets/075c4570-230d-49a0-8898-f0e967e81743)
